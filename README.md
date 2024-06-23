@@ -44,3 +44,16 @@ Example of file with word pairs:
 | NER        |      2e-5     |      3      |      32     |                    1e-2                    |                       16                       |
 | QA         |      3e-5     |      2      |      32     |                    1e-2                    |                       16                       |
 | XSR        |       -       |      -      |      -      |                      -                     |                        -                       |
+
+
+## Citation
+
+```bibtex
+@inproceedings{cross-lingual-adjustment,
+    title = "The Impact of Cross-Lingual Adjustment of Contextual Word Representations on Zero-Shot Transfer",
+    author = "Efimov, Pavel and Boytsov, Leonid and Arslanova, Elena and Braslavski, Pavel",
+    booktitle = "Advances in Information Retrieval",
+    year = "2023",
+    pages = "51--67"
+}
+```
